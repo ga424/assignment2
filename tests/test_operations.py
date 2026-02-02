@@ -7,7 +7,7 @@ class TestAddition:
     
     def test_addition_positive_numbers(self):
         """Test addition of two positive numbers"""
-        assert addition(1, 1) == 2
+        assert addition(1, 5) == 2
     
     def test_addition_negative_numbers(self):
         """Test addition of two negative numbers"""
